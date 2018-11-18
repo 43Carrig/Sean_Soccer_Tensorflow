@@ -62,3 +62,5 @@ print("Total number of matches: {}".format(n_matches))
 print("Number of features: {}".format(n_features))
 print("Number of matches won by home team: {}".format(n_homewins))
 print("Win rate of home team: {:.2f}%".format(win_rate))
+
+# LSTM networks are a type of RNN that uses special units in addition to standard units.  
